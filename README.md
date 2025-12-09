@@ -1,2 +1,34 @@
 # Shashwat-wdw-2-
 This my wdw Ca - 2 creation and in this ive created a web page that has multiple connection for diiferent pages.
+This includes everything i used and built to create this file
+The following code is given below:-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <nav>
+        <div class="logo">Shashwat Labh
+        </div>
+        <div>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="skills.html">Skills</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        <h1>Welcome to My Portfolio</h1>
+        <h3>Myself Shashwat Labh and im studying in KIET GROUP OF INSTITUTIONS MY COUSE IS CSE - AI </h3>
+        <h2>ROLL NUMBER -2025011003227
+        </h2>
+        <p>I am a passionate first-year Computer Science student.</p>
+    </div>
+</body>
+</html>
